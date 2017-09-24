@@ -1,6 +1,6 @@
 [package]
 name = "mod-exp-unsigned"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["kyunghoon <kyunghoon@gmail.com>"]
 description = "yet another mod exp crate, this one works only for BigUints"
 license = "MIT/Apache-2.0"
